@@ -1,0 +1,13 @@
+H:\programming\csharp\terceiro\terceiro\bin\Debug\netcoreapp3.1\terceiro.exe
+H:\programming\csharp\terceiro\terceiro\bin\Debug\netcoreapp3.1\terceiro.deps.json
+H:\programming\csharp\terceiro\terceiro\bin\Debug\netcoreapp3.1\terceiro.runtimeconfig.json
+H:\programming\csharp\terceiro\terceiro\bin\Debug\netcoreapp3.1\terceiro.runtimeconfig.dev.json
+H:\programming\csharp\terceiro\terceiro\bin\Debug\netcoreapp3.1\terceiro.dll
+H:\programming\csharp\terceiro\terceiro\bin\Debug\netcoreapp3.1\terceiro.pdb
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.csproj.AssemblyReference.cache
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.AssemblyInfoInputs.cache
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.AssemblyInfo.cs
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.csproj.CoreCompileInputs.cache
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.dll
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.pdb
+H:\programming\csharp\terceiro\terceiro\obj\Debug\netcoreapp3.1\terceiro.genruntimeconfig.cache

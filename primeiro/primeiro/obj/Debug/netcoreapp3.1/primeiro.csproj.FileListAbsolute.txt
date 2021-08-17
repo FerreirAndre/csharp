@@ -1,0 +1,13 @@
+H:\programming\csharp\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.exe
+H:\programming\csharp\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.deps.json
+H:\programming\csharp\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.json
+H:\programming\csharp\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.dev.json
+H:\programming\csharp\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.dll
+H:\programming\csharp\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.pdb
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.csproj.AssemblyReference.cache
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfoInputs.cache
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfo.cs
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.csproj.CoreCompileInputs.cache
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.dll
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.pdb
+H:\programming\csharp\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.genruntimeconfig.cache
