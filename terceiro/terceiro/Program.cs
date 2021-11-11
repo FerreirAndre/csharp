@@ -5,7 +5,7 @@ namespace terceiro {
         static void Main(string[] args) {
             char escolha;
             do {
-                menu();
+                Menu();
                 int exercicioEscolhido = int.Parse(Console.ReadLine());
                 Console.Clear();
                 switch (exercicioEscolhido) {
@@ -94,7 +94,7 @@ namespace terceiro {
                 escolha = char.Parse(Console.ReadLine());
             } while (escolha != 's');
         }
-        static void menu() {
+        static void Menu() {
             Console.WriteLine("digite o numero do exercicio que deseja fazer" +
                 "\n1 - negativo ou positivo" +
                 "\n2 - par ou ímpar" +

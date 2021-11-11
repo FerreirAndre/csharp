@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\programming\\csharp\\terceiro\\terceiro\\terceiro.csproj",
+      "projectUniqueName": "D:\\Programacao\\csharp\\terceiro\\terceiro\\terceiro.csproj",
       "projectName": "terceiro",
-      "projectPath": "H:\\programming\\csharp\\terceiro\\terceiro\\terceiro.csproj",
+      "projectPath": "D:\\Programacao\\csharp\\terceiro\\terceiro\\terceiro.csproj",
       "packagesPath": "C:\\Users\\harrw\\.nuget\\packages\\",
-      "outputPath": "H:\\programming\\csharp\\terceiro\\terceiro\\obj\\",
+      "outputPath": "D:\\Programacao\\csharp\\terceiro\\terceiro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harrw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
