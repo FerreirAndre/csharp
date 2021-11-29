@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ld/s/nyPTeqxseEjczfbxEApWpX3IQx+nXtj0AZOUdWL2cVresDt+jLK962wFKD/kQpGGmza8YG8gy5NpsGHmA==",
+  "dgSpecHash": "cUjOTELU0suAwNxVKyUka7/jifhrR+VijBcH6+VhI+H/lNn0c4JnZBa4WsBpKAQBmX3DrylgUrLNW0AiGwIp1w==",
   "success": true,
-  "projectFilePath": "D:\\Programacao\\csharp\\terceiro\\terceiro\\terceiro.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\programacao\\csharp\\terceiro\\terceiro\\terceiro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harrw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\harrw\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\harrw\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\harrw\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
