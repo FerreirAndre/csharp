@@ -123,7 +123,7 @@ namespace Program
             Console.Write("digite um numero para calcular seus divisores: ");
             int valor = int.Parse(Console.ReadLine());
 
-            for(int i = 1; i <= valor; i++)
+            for (int i = 1; i <= valor; i++)
             {
                 if (valor % i == 0)
                 {
@@ -137,23 +137,23 @@ namespace Program
             int valor = int.Parse(Console.ReadLine());
             int[,] matriz = new int[valor, 3];
 
-            for(int i = 1; i <= valor; i++)
+            for (int i = 1; i <= valor; i++)
             {
-                for(int j = 0; j < 3; j++)
+                for (int j = 0; j < 3; j++)
                 {
                     if (j == 0)
                     {
-                        matriz[i-1, j] = i;
+                        matriz[i - 1, j] = i;
                     }
                     else if (j == 1)
                     {
-                        matriz[i-1, j] = (int)Math.Pow(i,2);
+                        matriz[i - 1, j] = (int)Math.Pow(i, 2);
                     }
                     else
                     {
                         matriz[i - 1, j] = (int)Math.Pow(i, 3);
                     }
-                    Console.Write($"{matriz[i-1,j]} ");
+                    Console.Write($"{matriz[i - 1, j]} ");
                 }
                 Console.WriteLine();
             }
